@@ -77,6 +77,7 @@ namespace Bahmata_Radu_Lab2
                     break;
 
                 case DoughnutType.Vanilla:
+
                     mFilledVanilla++;
                     txtVanillaFilled.Text = mFilledVanilla.ToString();
                     break;
